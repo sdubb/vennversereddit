@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vennversereddit/static/css/main.ce65d123.chunk.css",
+    "main.js": "/vennversereddit/static/js/main.2c189f7c.chunk.js",
+    "main.js.map": "/vennversereddit/static/js/main.2c189f7c.chunk.js.map",
+    "runtime-main.js": "/vennversereddit/static/js/runtime-main.688a3619.js",
+    "runtime-main.js.map": "/vennversereddit/static/js/runtime-main.688a3619.js.map",
+    "static/css/2.7393f959.chunk.css": "/vennversereddit/static/css/2.7393f959.chunk.css",
+    "static/js/2.fda4fa7a.chunk.js": "/vennversereddit/static/js/2.fda4fa7a.chunk.js",
+    "static/js/2.fda4fa7a.chunk.js.map": "/vennversereddit/static/js/2.fda4fa7a.chunk.js.map",
+    "index.html": "/vennversereddit/index.html",
+    "static/css/2.7393f959.chunk.css.map": "/vennversereddit/static/css/2.7393f959.chunk.css.map",
+    "static/css/main.ce65d123.chunk.css.map": "/vennversereddit/static/css/main.ce65d123.chunk.css.map",
+    "static/js/2.fda4fa7a.chunk.js.LICENSE.txt": "/vennversereddit/static/js/2.fda4fa7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.688a3619.js",
+    "static/css/2.7393f959.chunk.css",
+    "static/js/2.fda4fa7a.chunk.js",
+    "static/css/main.ce65d123.chunk.css",
+    "static/js/main.2c189f7c.chunk.js"
+  ]
+}
